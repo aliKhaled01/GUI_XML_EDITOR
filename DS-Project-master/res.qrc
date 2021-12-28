@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>analyze.png</file>
+        <file>bar-chart.png</file>
+        <file>compress.png</file>
+        <file>enhance-effect.png</file>
+        <file>font-adjustment.png</file>
+        <file>information-button.png</file>
+        <file>json.png</file>
+        <file>logout.png</file>
+        <file>minimize.png</file>
+        <file>open-folder.png</file>
+        <file>repair.png</file>
+        <file>save.png</file>
+        <file>search (1).png</file>
+        <file>search.png</file>
+        <file>close.png</file>
+        <file>warning.png</file>
+    </qresource>
+</RCC>
